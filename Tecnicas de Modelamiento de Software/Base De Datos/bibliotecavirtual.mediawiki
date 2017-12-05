@@ -1,0 +1,29 @@
+
+<!--
+Table data for `libros`
+-->
+
+{| class="wikitable sortable" style="text-align:center;"
+|+'''libros'''
+|-
+ ! idlibro
+ ! titulo
+ ! fechalanzamiento
+ ! autor
+ ! categoria
+ ! editorial
+ ! idioma
+ ! descripcion
+ ! portada
+|-
+ | 1
+ | Software
+ | 12/01/2000
+ | Jose perez
+ | Ingenieria
+ | dkjdkj
+ | Español
+ | gsiduhsodhioshiod
+ | 
+|}
+

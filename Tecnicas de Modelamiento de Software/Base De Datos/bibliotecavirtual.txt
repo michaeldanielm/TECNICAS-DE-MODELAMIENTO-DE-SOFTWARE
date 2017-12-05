@@ -1,0 +1,5 @@
+===Base de datos bibliotecavirtual
+
+== Volcado de datos para la tabla libros
+
+|1|Software|12/01/2000|Jose perez|Ingenieria|dkjdkj|Español|gsiduhsodhioshiod| 

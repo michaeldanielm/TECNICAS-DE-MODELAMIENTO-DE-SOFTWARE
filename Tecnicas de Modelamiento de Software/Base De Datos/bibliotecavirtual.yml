@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+# bibliotecavirtual.libros
+-
+  idlibro: 1
+  titulo: "Software"
+  fechalanzamiento: "12/01/2000"
+  autor: "Jose perez"
+  categoria: "Ingenieria"
+  editorial: "dkjdkj"
+  idioma: "Español"
+  descripcion: "gsiduhsodhioshiod"
+  portada: ""
+...
